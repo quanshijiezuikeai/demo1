@@ -1,0 +1,77 @@
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, 'Microsoft Yahei',sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+.home-header{
+    background: url('../images/home-bg.png')no-repeat;
+    background-size: 100% auto;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.home-header > img{
+    width: 67%;
+    margin: 2.4rem;
+}
+.home-header > form{
+    background: white;
+    widows:90%;
+    margin: 0 auto;
+    line-height: 2.2rem;
+    border-radius: 2.2rem;
+}
+.home-header form input{
+    width:75%;
+    border:0px;
+    outline:none;
+    color: #aaaaaa;
+    font-size: 0.8rem;
+}
+.home-header form button{
+    font-size: 0.9rem;
+    color: #5bd4c7;
+    font-weight: lighter;
+    border: none;
+    background: none;
+    outline:none;
+}
+.home-categories{
+    padding: 0 1rem;
+}
+.home-categories dt{
+    display: flex;
+    align-items: center;
+    color: #333;    
+}
+.home-categories dt img{
+    height: 3rem;
+    margin-right: 1rem;
+}
+.home-categories dd{
+
+    margin: 0 -0.4rem;
+}
+.home-categories dd .tap{
+    background:#f5f8f9;
+    color: #7e8793;
+    padding: 0.5rem 1rem;
+    display: inline-block;
+    border-radius: 2rem;
+    text-decoration: none;
+    margin:0.4rem;
+    font-size: 0.8rem;
+}
+.home-footer{
+    width: 70%;
+    margin: 0 auto;
+    font-size: 0.75rem;
+    color: #7e8793;
+}
+.home-footer p {
+    margin: 0.2rem 0;
+}
+
+
+
+
+
