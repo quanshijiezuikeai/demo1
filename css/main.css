@@ -73,5 +73,19 @@ body{
 
 
 
-
-
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.padded{
+    padding: 1rem;
+}
+.top-bar img{
+    height: 0.9rem;
+}
+.top-bar form{
+    width: 40%;
+    border: 1px solid #5bd4c7 ;
+    border-radius: 2rem;
+}
