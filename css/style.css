@@ -20,9 +20,10 @@ body{
 }
 
 .countdown-col{
-  background: url(../images/BG.jpg) no-repeat center;
+  background: url(../images/BG3.jpg) no-repeat center;
   background-size: cover;
 }
+
 
 .time{
   color: #fff;
